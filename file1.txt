@@ -1,3 +1,5 @@
 This file contains an initial overview of the repository structure.  
 The purpose of this project is to practice basic Git operations such as cloning, staging, committing, and pushing changes.  
 In the next steps, additional files will be added and existing ones will be updated to demonstrate a clear version history.
+An additional update has been applied to this file during the second commit.  
+This modification helps illustrate how Git tracks changes across multiple versions of the same file.

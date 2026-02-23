@@ -1,0 +1,2 @@
+This file is added in the second phase of the Git workflow exercise.  
+Its purpose is to demonstrate how new files appear
